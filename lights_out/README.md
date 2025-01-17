@@ -21,6 +21,7 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
 ![Screenshot 2025-01-17 145838](https://github.com/user-attachments/assets/c0d87ed6-8686-4ea0-a17f-10b566e12fdb)
 ![image](https://github.com/user-attachments/assets/d94d5419-cc21-4ee7-8dc1-5077c5e0799f)
 
+![image](https://github.com/user-attachments/assets/45591833-c731-4538-a8bd-e1ec4c945305)
 
 ![Screenshot 2025-01-17 152146](https://github.com/user-attachments/assets/e9334688-9b9f-4237-9325-d55f10648b8f)
 
